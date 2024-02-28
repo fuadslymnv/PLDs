@@ -1,0 +1,6 @@
+The Great Gatsby|F. Scott Fitzgerald|9780743273565
+To Kill a Mockingbird|Harper Lee|9780061120084
+1984|George Orwell|9780451524935
+Pride and Prejudice|Jane Austen|9780141439518|Alice Smith|2023-01-15
+The Catcher in the Rye|J.D. Salinger|9780316769488|Bob Johnson|2023-02-10
+Brave New World|Aldous Huxley|9780060850524|Charlie Brown|2023-03-20Harry Potter|Joan Roaling|111111
